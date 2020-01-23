@@ -1,0 +1,138 @@
+@media only screen and (max-width: 800px){
+    .nav-links-btn .nav-item .nav-link {
+    border: 0px solid #2e3092;
+}
+    .why-us-media {
+        padding: 1em 1em;
+    }
+    .key-points .media {
+    border-right: 0px solid #afafaf;
+    }
+    .mar-top-sec p, .section-pd p{
+    font-size: 14px;
+    }  
+    .mar-top-sec h4{
+            font-size: 1.2rem;
+    } 
+    }
+
+@media only screen and (max-width: 600px){
+	footer .footer-sub-div {
+    padding: 1em 0;
+}
+section .section-title {
+    text-align: center;
+    margin: 0;
+    padding: 0.5em;
+    text-transform: capitalize;
+    font-size: 16px;
+}
+#tabs .nav-pills .nav-link {
+    font-size: 11px;
+        padding: .5rem 0.5rem;
+}
+#tabs .events-tab-content .tab-pane p{
+	text-align: justify;
+    font-size: 12px;
+}
+.footer-sub-div ul.footer-fallow-ul{
+	margin: 0;
+}
+#tabs {
+    padding: 1em 0;
+}
+#about-us p{
+    font-size: 12px;
+}
+.section-pd {
+    padding: 1em 0em;
+}
+.profile-card-5 {
+    margin: 1em 0;
+}
+#post-your-event-tabs .nav-pills .nav-link {
+    font-size: 12px;
+}
+#post-your-event-tabs .seminor-login-form {
+    padding: 1em 0 0;
+}
+.container-checkbox{
+      font-size: 10px;
+}
+#post-your-event-tabs .form-control{
+    font-size: 14px;
+}
+#post-your-event-tabs .btn-check-login{
+    width: 100%;
+}
+.post-final-submit li p{
+    font-size: 12px;
+}
+#post-your-event-tabs {
+    padding: 1em 0;
+}
+.seminor-login-form .btn-check-login{
+    width: 100%;
+}
+.xs-nav-pills-magic .navbar-brand{
+width: 50%;
+float: left;
+overflow: hidden;
+}
+.xs-nav-pills-magic .navbar-brand img{
+        width: 90%;
+}
+.key-points .media {
+    border-right: 0px solid #afafaf;
+    padding: 1em 0em;
+}
+ .pos-absolute {
+    border: 0px solid #afafaf;
+    margin: 0 auto;
+    background: #fff;
+}
+.why-us-media {
+    padding: 1em 0em;
+}
+.mar-top-sec p, .section-pd p{
+    font-size: 14px;
+}  
+.mar-top-sec h4{
+        font-size: 1.2rem;
+} 
+    .nav-links-btn .nav-item .nav-link {
+    border: 0px solid #2e3092;
+}
+.banner-icon-color {
+    font-size: 30px !important;
+}
+.vlook-download {
+    padding: 0.5em;
+}
+.vlook-download h2 {
+    font-weight: bold;
+    padding-bottom: .5em;
+    font-size: 1.2em;
+}
+.vlook-download p {
+    font-size: 14px;
+}
+.vlook-app {
+    padding: 1em 0em;
+}
+.app-down-ios {
+    padding: 0em 0em 0 0em;
+}
+.lg-hide-page{
+  display: block !important;
+}
+.lg-pd-0{
+  padding: 0 1em !important;
+}
+.seminor-login-form {
+    padding: 0em 0 0;
+}
+}
+
+
+
